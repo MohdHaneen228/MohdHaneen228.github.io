@@ -164,13 +164,13 @@ body.dark .skill-card:hover, body.dark .project:hover, body.dark .edu-card:hover
 .social-links {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   margin-top: 22px;
 }
 
 .social-icon {
-  width: 42px;
-  height: 42px;
+  width: 40px;
+  height: 40px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
